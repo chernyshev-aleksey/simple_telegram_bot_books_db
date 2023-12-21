@@ -1,0 +1,8 @@
+/errors/
+/.idea/
+/venv/
+/.gitattributes
+**/__pycache__/
+/umscript-4daa589f80b6.json
+/CA.pem
+/mongo_data.json
